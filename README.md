@@ -9,7 +9,7 @@ Raul Villar Casino
 Erik Villarreal Gallardo
 
 # Instalación 💻
-Se necesita acceso a un dataset (Si lo necesitan, escríbanme y se los comparto)
+Se necesita acceso a un dataset. Si lo necesitan, escríbnme y se los comparto
 
 # Contacto 📩
 Si quieren contactarme, escríbanme a jpalmagarro@gmail.com
